@@ -10,16 +10,16 @@ Code for training and running a pick and throw task on a Franka Emika Panda robo
 ## Installation
 
 1. Clone this repository
-2. Copy the `lift_h` directory into your IsaacLab installation:
+2. Make a directory called `lift_h` in your IsaacLab installation (see below) and copy the contents into that directory:
    ```
-   IsaacLab/source/isaaclab_tasks/isaaclab_tasks/manager_based/manipulation/
+   cp -r ./* /home/IsaacLab/source/isaaclab_tasks/isaaclab_tasks/manager_based/manipulation/lift_h/
    ```
 
 ## Usage
 
 ### Training
 
-Run the training script with the following command:
+Run the training script with the following command in your IsaacLab installation:
 
 ```bash
 python scripts/reinforcement_learning/skrl/train.py --task Isaac-Lift-h-Cube-Franka-v0 --headless
