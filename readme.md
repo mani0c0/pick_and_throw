@@ -15,6 +15,19 @@ Code for training and running a pick and throw task on a Franka Emika Panda robo
    cp -r ./* /home/IsaacLab/source/isaaclab_tasks/isaaclab_tasks/manager_based/manipulation/lift_h/
    ```
 
+## Demo Videos
+
+Here are demonstration videos showing the trained robot performing the pick and throw task:
+
+### Demo 1
+https://github.com/user-attachments/assets/demo_1.mp4
+
+### Demo 2  
+https://github.com/user-attachments/assets/demo_2.mp4
+
+### Demo 3
+https://github.com/user-attachments/assets/demo_3.mp4
+
 ## Usage
 
 ### Training
