@@ -20,13 +20,14 @@ Code for training and running a pick and throw task on a Franka Emika Panda robo
 Here are demonstration videos showing the trained robot performing the pick and throw task:
 
 ### Demo 1
-https://github.com/user-attachments/assets/demo_1.mp4
+![Demo 1](demo_1.mp4)
 
 ### Demo 2  
-https://github.com/user-attachments/assets/demo_2.mp4
+![Demo 2](demo_2.mp4)
 
 ### Demo 3
-https://github.com/user-attachments/assets/demo_3.mp4
+![Demo 3](demo_3.mp4)
+
 
 ## Usage
 
